@@ -36,12 +36,12 @@
 ---
 
 ### 📈 GitHub Contributions
-![Your GitHub Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=your-username&theme=github)
+![Your GitHub Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=tanixq&theme=github)
 
 ---
 
 ### 📈 GitHub Contributions
-![Your GitHub Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=your-username&theme=github)
+![Your GitHub Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=tanixq&theme=github)
 
 ---
 
