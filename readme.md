@@ -5,6 +5,7 @@
 ---
 
 ### 🚀 About Me
+- 🏢 **3 years of experience at Persistent Systems** working on high-impact Java projects and backend development.
 - 🔥 Passionate about building **robust backend systems**.
 - 💡 Skilled in **Java**, **Spring Boot**, **Hibernate**, **SQL**, and **REST APIs**.
 - 📚 Always learning new technologies to build better and scalable software.
@@ -38,4 +39,4 @@
 ---
 
 ### 🚀 Let's connect and create something amazing!
-# tanixq
+# Tanishq Patel
