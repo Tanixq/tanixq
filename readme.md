@@ -1,4 +1,5 @@
-# 👋 Hi there, I'm [Tanishq Patel]!
+# 👋 Hi there, I'm Tanishq Patel!
+
 
 ### 💻 Java Developer | Backend Enthusiast | Problem Solver | Node.JS Developer
 
@@ -22,19 +23,32 @@
 
 ---
 
-### 📈 My GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanixq&show_icons=true&theme=radical)
+### 🚀 My Skillset
+#### Java Expertise
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+
+#### Spring Boot
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+
+#### SQL
+![SQL](https://img.shields.io/badge/SQL-F4B400?style=for-the-badge&logo=database&logoColor=white)
 
 ---
 
-### 📫 How to reach me:
-- LinkedIn: [https://www.linkedin.com/in/tanixq/]
-- Email: [tanishqpatel002@gmail.com]
+### 📈 GitHub Contributions
+![Your GitHub Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=your-username&theme=github)
+
+---
+
+### 📈 GitHub Contributions
+![Your GitHub Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=your-username&theme=github)
 
 ---
 
 ### ⚡ Fun Fact:
 > "Code is like humor. When you have to explain it, it’s bad."
+
+![Bounce Effect](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
 ---
 
