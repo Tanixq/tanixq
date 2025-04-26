@@ -35,16 +35,6 @@
 
 ---
 
-### 📈 GitHub Contributions
-![Your GitHub Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=tanixq&theme=github)
-
----
-
-### 📈 GitHub Contributions
-![Your GitHub Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=tanixq&theme=github)
-
----
-
 ### ⚡ Fun Fact:
 > "Code is like humor. When you have to explain it, it’s bad."
 
