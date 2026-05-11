@@ -42,5 +42,7 @@
 
 ---
 
-### 🚀 Let's connect and create something amazing!
-# Tanishq Patel
+### 📫 Connect With Me
+
+- LinkedIn: https://linkedin.com/in/tanixq
+- Email: tanishqpatel002@gmail.com
